@@ -1,12 +1,13 @@
 import { useState } from 'react'
-import './App.css'
+// import './App.css'
+import Main from './components/Main'
 
 function App() {
 
   return (
-    <>
-      <h2 class="text-3xl font-bold underline">Portfolio Project</h2>
-    </>
+      <div className='max-w-full h-screen dark:bg-gray-900 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5'>
+        <Main />
+      </div>
   )
 }
 
