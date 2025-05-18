@@ -2,12 +2,6 @@ function Main() {
 
     return (
         <>
-           <div>
-                <h3 className="text-gray-900 dark:text-white mt-5 text-2xl font-medium tracking-tight">Hi I am,</h3>
-                <h2 className="text-gray-900 dark:text-white mt-5 text-3xl font-medium tracking-tight ">Dhirendra Jha</h2>
-                <h1 className="text-gray-900 dark:text-white mt-5 text-4xl font-medium tracking-tight ">I build things.</h1>
-                <h1 className="text-gray-900 dark:text-white mt-5 text-5xl font-medium tracking-tight ">I Can help you turn your ideas into reality.</h1>
-           </div>
            <br/>
            <div>
                 <button className="text-purple-700 hover:text-white border border-purple-700 hover:bg-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-purple-400 dark:text-purple-400 dark:hover:text-white dark:hover:bg-purple-500 dark:focus:ring-purple-900 cursor-pointer">Let's Connect</button>
