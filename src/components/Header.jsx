@@ -14,11 +14,7 @@ export default function Header() {
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           {/* Brand/Logo */}
           <NavLink to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-            <img
-              src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
-              className="h-8"
-              alt="DJ"
-            />
+            
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
               DJ
             </span>
@@ -62,8 +58,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)} // Close menu on click
@@ -77,8 +73,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)}
@@ -92,8 +88,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)}
@@ -107,8 +103,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)}
@@ -122,8 +118,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)}
@@ -137,8 +133,8 @@ export default function Header() {
                   className={({ isActive }) =>
                     `block py-2 px-3 rounded-sm md:p-0 ${
                       isActive
-                        ? 'text-orange-700 bg-blue-700 md:bg-transparent md:dark:text-orange-500'
-                        : 'text-orange-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
+                        ? 'text-orange-700  md:bg-transparent md:dark:text-orange-500'
+                        : 'text-green-500 hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 dark:text-orange md:dark:hover:text-orange-500 dark:hover:bg-orange-700 dark:hover:text-white md:dark:hover:bg-transparent'
                     }`
                   }
                   onClick={() => setIsMenuOpen(false)}
