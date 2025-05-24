@@ -1,7 +1,7 @@
 function Services() {
     return (
         <div>
-            <p>This is Services page</p>
+            <p className="text-8xl text-amber-800">This is Services page</p>
         </div>
     )
 }
