@@ -11,7 +11,7 @@ import BookCall from './components/BookCall'
 function App() {
 
   return (
-      <div className='max-w-full h-screen dark:bg-gray-800 px-6 py-8 ring shadow-xl ring-gray-900/5'>
+      <div className='max-w-full min-h-screen bg-black dark:bg-gray-900 px-6 py-8 ring shadow-xl ring-gray-900/5'>
         <BrowserRouter>
           <Header />
           <Routes>
