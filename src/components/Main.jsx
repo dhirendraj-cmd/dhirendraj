@@ -5,9 +5,9 @@ function Main() {
            <br/>
            <div className="text-center">
                 <p className="text-2xl text-white">Hi, Welcome to my folio</p>
-                <p className="text-4xl text-white">I am, Dhirendra A,
+                <p className="text-4xl text-white">I am, Dhirendra,
                     <span style={{fontFamily: 'cursive', color: 'orange', padding: "5px", fontWeight: "bold"}}>
-                        Full Stack Software Engineer
+                        A Full Stack Software Engineer
                     </span> 
                 </p>
                 <p className="text-3xl text-white">I can help you turn your ideas in to 

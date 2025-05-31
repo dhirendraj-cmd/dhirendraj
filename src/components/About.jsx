@@ -2,7 +2,7 @@ function About() {
     return (
         <>
             
-            <div className="text-center bg-black dark:bg-gray-900 min-h-screen px-4 py-6 sm:px-6 lg:px-8">
+            <div className="text-center bg-black min-h-screen px-4 py-6 sm:px-6 lg:px-8">
 
                 <p className="text-4xl text-white">Hi there!, I'm
                     <span style={{fontWeight:"bolder", fontFamily: "cursive", color: "orange", padding: "5px"}}>
@@ -22,7 +22,7 @@ function About() {
                 <br/>
                 <p className="text-3xl text-white">
                     <span style={{color: "orange", fontFamily: "cursive", fontWeight: "bold"}}>
-                        I am available for full time roles as well as freelancing.
+                        Available for full time roles as well as freelancing.
                     </span>
                 </p>
             <br/>
