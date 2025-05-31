@@ -1,7 +1,7 @@
 function Connect() {
     return (
         <div className="text-left bg-black min-h-screen px-4 py-6 sm:px-6 lg:px-8">
-            <p className="text-4xl text-amber-800">Connect with me on: </p>
+            <p className="text-4xl text-green-500">If you are a tech enthusiast, let's Connect on: </p>
             <br/>
             <a href="https://x.com/cmd_dj221" target="_blank">
                 <button className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800 cursor-pointer">
