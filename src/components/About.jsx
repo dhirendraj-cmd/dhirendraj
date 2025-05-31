@@ -5,23 +5,23 @@ function About() {
             <div className="text-center bg-black min-h-screen px-4 py-6 sm:px-6 lg:px-8">
 
                 <p className="text-4xl text-white">Hi there!, I'm
-                    <span style={{fontWeight:"bolder", fontFamily: "cursive", color: "orange", padding: "5px"}}>
+                    <span style={{fontWeight:"bolder", fontStyle: "italic", color: "orange", padding: "5px"}}>
                         Dhirendra
                     </span>
                 </p>
                 <br/>
                 <p className="text-3xl text-white font-extralight italic">
-                <span style={{color: "orange", fontFamily: "cursive", fontWeight: "bold"}}>
+                <span style={{color: "green", fontWeight: "bold"}}>
                     I am always looking for a mission to join and grow.
                 </span>
                 </p>
                 <br/>
                 <p className="text-2xl font-light text-white">
-                    I'm Dhirendra Jha, A Full Stack Software Engineer, Passionate About Coding. My expertise is in backend but Currently Exploring the Frontend as well. Have worked as a Full stack Dev from Desktop applications to web apps. Also hold the experience of working on Raspberry pi. Good problem-solving skills and ability to perform well in a team. I am a passionate learner. Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
+                    I'm Dhirendra Jha, A Full Stack Software Engineer, Passionate About Coding. My expertise is in backend but have worked with Frontend as well. Have worked as a Full stack Dev from Desktop applications to web apps. Also hold the experience of working on Raspberry pi. Good problem-solving skills and ability to perform well in a team. I am a passionate learner. Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
                 </p>
                 <br/>
-                <p className="text-3xl text-white">
-                    <span style={{color: "orange", fontFamily: "cursive", fontWeight: "bold"}}>
+                <p className="text-3xl text-white font-extralight italic">
+                    <span style={{color: "green", fontWeight: "bold"}}>
                         Available for full time roles as well as freelancing.
                     </span>
                 </p>
